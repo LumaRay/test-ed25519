@@ -22,4 +22,5 @@ You can find links to the algorithms' web pages in the first comments of the cor
 
 | Language | Author  | Time, ms  |
 |:-------:|:---------:|:---------:|
+|  rust  | openssl   | 4318/4218/11302 |
 |  rust  | dalek   | 2194/2277/6012 |
